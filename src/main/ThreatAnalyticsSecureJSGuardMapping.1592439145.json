@@ -1,0 +1,60 @@
+{
+    "ApplicationToken": "8823a2e4-e51a-4e26-898e-7ac681af591e",
+    "Guards": [
+        {
+            "Id": 363250,
+            "Name": "Heartbeat (unprotected/assets/bootstrap/js/bootstrap.min.js)"
+        }, 
+        {
+            "Id": 294810,
+            "Name": "Script Verification (unprotected/assets/bootstrap/js/bootstrap.min.js)"
+        }, 
+        {
+            "Id": 54680,
+            "Name": "Debug Detection (unprotected/assets/bootstrap/js/bootstrap.min.js)"
+        }, 
+        {
+            "Id": 536781,
+            "Name": "Checksum (unprotected/assets/bootstrap/js/bootstrap.min.js)"
+        }, 
+        {
+            "Id": 620499,
+            "Name": "Heartbeat (unprotected/assets/js/jquery.min.js)"
+        }, 
+        {
+            "Id": 961752,
+            "Name": "Script Verification (unprotected/assets/js/jquery.min.js)"
+        }, 
+        {
+            "Id": 778898,
+            "Name": "Debug Detection (unprotected/assets/js/jquery.min.js)"
+        }, 
+        {
+            "Id": 77329,
+            "Name": "Checksum (unprotected/assets/js/jquery.min.js)"
+        }, 
+        {
+            "Id": 443093,
+            "Name": "Heartbeat (unprotected/assets/js/motley.js)"
+        }, 
+        {
+            "Id": 407793,
+            "Name": "Checkpoint (unprotected/assets/js/motley.js)"
+        }, 
+        {
+            "Id": 619304,
+            "Name": "Script Verification (unprotected/assets/js/motley.js)"
+        }, 
+        {
+            "Id": 456554,
+            "Name": "Debug Detection (unprotected/assets/js/motley.js)"
+        }, 
+        {
+            "Id": 922115,
+            "Name": "Checksum (unprotected/assets/js/motley.js)"
+        }
+    ],
+    "MappingId": "50548d23-bb31-f046-8a7c-564f59699193",
+    "MappingVersion": 1,
+    "ProtectionTimestamp": 1592439145
+}
