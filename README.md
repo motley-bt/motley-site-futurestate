@@ -7,10 +7,5 @@ MB&amp;T Web app for future state demo
 
 
 1. Commit for S-01021
-2. Commit for S-01021
-3. Commit for S-01021
-4. Commit for S-01021
-5. Commit for S-01021
-6. Commit for S-01021
-7. Commit for S-01021
+
 
