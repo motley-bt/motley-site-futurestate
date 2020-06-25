@@ -6,12 +6,7 @@ MB&amp;T Web app for future state demo
 /src/main/unprotected is the unprotected original MB&T web app that shouldn't be deployed as part of the future state demo
 
 
-1. Commit for S-01021
-2. Commit for S-01021
-3. Commit for S-01021
-4. Commit for S-01021
-5. Commit for S-01021
-6. Commit for S-01021
 7. Commit for S-01021
+8. Commit for S-01021
 
 
